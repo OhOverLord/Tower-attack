@@ -1,0 +1,18 @@
+4
+! 100 100 40
+@ 50 120 50
+& 75 100 59
+^ 100 10 60
+
+1
+I 150 300 2 15
+
+3
+' 300 invisibility
+^ 300 regeneration
+* 150 armor
+
+3
+H 100 hp_upgrade
+D 300 dispersion
+E 500 enhancement
